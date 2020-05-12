@@ -1,0 +1,9 @@
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\bin\Debug\netstandard2.0\TesteHiper.Common.deps.json
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\bin\Debug\netstandard2.0\TesteHiper.Common.dll
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\bin\Debug\netstandard2.0\TesteHiper.Common.pdb
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\obj\Debug\netstandard2.0\TesteHiper.Common.csprojAssemblyReference.cache
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\obj\Debug\netstandard2.0\TesteHiper.Common.csproj.CoreCompileInputs.cache
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\obj\Debug\netstandard2.0\TesteHiper.Common.AssemblyInfoInputs.cache
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\obj\Debug\netstandard2.0\TesteHiper.Common.AssemblyInfo.cs
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\obj\Debug\netstandard2.0\TesteHiper.Common.dll
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Common\obj\Debug\netstandard2.0\TesteHiper.Common.pdb

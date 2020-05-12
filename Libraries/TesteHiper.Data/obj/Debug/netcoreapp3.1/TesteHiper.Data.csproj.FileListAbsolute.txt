@@ -1,0 +1,12 @@
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\bin\Debug\netcoreapp3.1\TesteHiper.Data.deps.json
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\bin\Debug\netcoreapp3.1\TesteHiper.Data.dll
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\bin\Debug\netcoreapp3.1\TesteHiper.Data.pdb
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\obj\Debug\netcoreapp3.1\TesteHiper.Data.csprojAssemblyReference.cache
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\obj\Debug\netcoreapp3.1\TesteHiper.Data.AssemblyInfoInputs.cache
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\obj\Debug\netcoreapp3.1\TesteHiper.Data.AssemblyInfo.cs
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\obj\Debug\netcoreapp3.1\TesteHiper.Data.dll
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\obj\Debug\netcoreapp3.1\TesteHiper.Data.pdb
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\obj\Debug\netcoreapp3.1\TesteHiper.Data.csproj.CoreCompileInputs.cache
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\bin\Debug\netcoreapp3.1\TesteHiper.Common.dll
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\bin\Debug\netcoreapp3.1\TesteHiper.Common.pdb
+D:\Testes\Hiper\TesteHiper\Libraries\TesteHiper.Data\obj\Debug\netcoreapp3.1\TesteHiper.Data.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fHC//LsP2v+A4BuDO2JPfW4BEyZiu3t4PDTxxMtsZJmooJv80iYasENf2dmENwXD2+F/Ow1iVNYnGKjRhaj/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Testes\\Hiper\\TesteHiper\\Libraries\\TesteHiper.Common\\TesteHiper.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
